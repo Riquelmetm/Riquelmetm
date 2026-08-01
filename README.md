@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Experiencias
 
 - Python
 - Java
@@ -24,9 +24,12 @@
 - HTML
 - CSS
 - Git
-- GitHub
 - Redes de Computadores
 - Microsoft Office
+- Visual Studio Code
+- Pycharm
+- Photoshop
+- Figma
 
 ---
 
