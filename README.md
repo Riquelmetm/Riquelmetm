@@ -78,40 +78,6 @@ Atualmente estou focado em **Desenvolvimento Web**, **Programação**, **Banco d
 
 ---
 
-## 📂 Projetos em Destaque
-
-### 🚍 VaiTopic
-
-Protótipo de uma plataforma para facilitar a comunicação entre passageiros e motoristas de transporte alternativo.
-
-**Tecnologias**
-
-- Figma
-- UX/UI
-
-➡️ Em desenvolvimento
-
----
-
-### 💻 Clear Edge POS
-
-Sistema desktop desenvolvido para gerenciamento de operações comerciais.
-
-**Tecnologias**
-
-- Java
-- SQL
-
-➡️ Repositório:
-https://github.com/riquelmetm/clear-edge-pos
-
----
-
-### 📚 Projetos Acadêmicos
-
-Projetos desenvolvidos durante a graduação envolvendo programação, estruturas de dados e orientação a objetos.
-
-➡️ Disponíveis nos meus repositórios.
 
 ---
 
