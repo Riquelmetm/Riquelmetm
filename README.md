@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá, eu sou o Riquelme 👋
 
-<!--
-**Riquelmetm/Riquelmetm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC)
 
-Here are some ideas to get you started:
+💻 Técnico em Informática
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Desenvolvedor em formação apaixonado por tecnologia e por criar soluções através da programação.
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Ciência da Computação - UFC
+- 💼 Experiência em suporte técnico e infraestrutura de redes (Megarouter)
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor de Software
+
+---
+
+## 🚀 Tecnologias
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- Git
+- GitHub
+- Redes de Computadores
+- Microsoft Office
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/riquelmelopesdev
+- Email: riquelmelopescr@gmail.com
