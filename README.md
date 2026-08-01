@@ -60,6 +60,17 @@
 - Redes de Computadores
 - Microsoft Office
 ---
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquelmetm&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmetm&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+
+</div>
 
 ## 📫 Contato
 
