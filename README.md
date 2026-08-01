@@ -115,33 +115,11 @@ Projetos desenvolvidos durante a graduação envolvendo programação, estrutura
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=riquelmetm&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmetm&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=riquelmetm&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=riquelmetm&theme=darkhub&no-frame=true&no-bg=true&margin-w=15"/>
 
 </p>
 
