@@ -60,6 +60,12 @@
 - Redes de Computadores
 - Microsoft Office
 ---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/riquelmelopesdev
+- Email: riquelmelopescr@gmail.com
+
 ---
 
 ## 📊 GitHub Stats
@@ -71,8 +77,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmetm&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
 
 </div>
-
-## 📫 Contato
-
-- LinkedIn: www.linkedin.com/in/riquelmelopesdev
-- Email: riquelmelopescr@gmail.com
