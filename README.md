@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=riquelmetm&color=blue)
 # Olá, eu sou o Riquelme 👋
 
 🎓 Estudante de Ciência da Computação na Universidade Federal do Ceará (UFC)
@@ -61,11 +62,18 @@
 - Microsoft Office
 ---
 
-## 📫 Contato
+## 🔥 Sequência de Contribuições
 
-- LinkedIn: www.linkedin.com/in/riquelmelopesdev
-- Email: riquelmelopescr@gmail.com
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=riquelmetm&theme=github-dark&hide_border=true"/>
+</p>
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=riquelmetm&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -77,3 +85,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmetm&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
 
 </div>
+
+---
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/riquelmelopesdev
+- Email: riquelmelopescr@gmail.com
+
+
