@@ -67,6 +67,7 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=riquelmetm&theme=github-dark&hide_border=true"/>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -74,6 +75,7 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=riquelmetm&theme=darkhub&no-frame=true&margin-w=10"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
