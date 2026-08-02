@@ -65,19 +65,16 @@ Atualmente estou focado em **Desenvolvimento Web**, **Programação** e **Banco 
 - Redes de Computadores
 - Git e GitHub
 - Microsoft Office
+- Designer Grafico
 
 ---
 
 ## 🌱 Atualmente estudando
 
 - Java
-- Estruturas de Dados
-- Engenharia de Software
+- Estruturas de Dados Avançado
 - Banco de Dados
 - Desenvolvimento Web
-
----
-
 
 ---
 
