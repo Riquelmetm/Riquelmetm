@@ -16,17 +16,17 @@ Sou estudante de **Ciência da Computação** na **Universidade Federal do Cear�
 
 Tenho experiência em **suporte técnico**, **infraestrutura de redes**, atendimento ao cliente e desenvolvimento de projetos acadêmicos e pessoais.
 
-Atualmente estou focado em **Desenvolvimento Web**, **Programação**, **Banco de Dados** e **Engenharia de Software**, buscando minha primeira oportunidade como Desenvolvedor.
+Atualmente estou focado em **Desenvolvimento Web**, **Programação** e **Banco de Dados**, buscando minha primeira oportunidade como Desenvolvedor.
 
 ---
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Linguagens
-
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
 </p>
 
 ### 🌐 Desenvolvimento Web
